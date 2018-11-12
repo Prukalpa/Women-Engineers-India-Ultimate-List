@@ -15,21 +15,9 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Currently at: 
 - Tinkers with: 
 
-### Aishwarya Pant 
-- Social: [Twitter](https://twitter.com/aishpant), [Blog](https://aishpant.github.io/blog/) 
-- [Github](https://github.com/aishpant) 
-- Currently at: 
-- Tinkers with: 
-
-### Aishwarya Pant 
-- Social: [Twitter](https://twitter.com/aishpant), [Blog](https://aishpant.github.io/blog/) 
-- [Github](https://github.com/aishpant) 
-- Currently at: 
-- Tinkers with: 
-
-### Aishwarya Pant 
-- Social: [Twitter](https://twitter.com/aishpant), [Blog](https://aishpant.github.io/blog/) 
-- [Github](https://github.com/aishpant) 
+### Name
+- Social: [Twitter](), [Blog]() 
+- [Github]() 
 - Currently at: 
 - Tinkers with: 
 

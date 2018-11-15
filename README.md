@@ -11,7 +11,7 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 
 ### Aamna Khan
 - Social: [Twitter](https://twitter.com/_aamnakhan), [LinkedIn](https://www.linkedin.com/in/aamna92/), [Blog](medium.com/@aamnakhan)
-- Github :soon: 
+- Github: :soon: 
 - Currently at: Simpl
 - Tinkers with: 
 
@@ -23,7 +23,7 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 
 ### Aditi Tuteja
 - Social: [Twitter](https://twitter.com/irealgeek), [LinkedIn](https://www.linkedin.com/in/realgeek/)
-- [Github]() 
+- Github: :soon: 
 - Currently at: WIN Healthcare
 - Tinkers with: 
 
@@ -35,7 +35,7 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 
 ### Akanksha Sharma
 - Social: [Twitter](https://twitter.com/akanksharmaa), [LinkedIn](), [Blog](), [Website]() 
-- [Github]() 
+- Github: :soon:
 - Currently at: 
 - Tinkers with: 
 
@@ -47,7 +47,7 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 
 ### Anbarasi U
 - Social: [Twitter](https://twitter.com/anbarasiu), [LinkedIn](), [Blog](), [Website]() 
-- [Github]() 
+- Github: :soon: 
 - Currently at: 
 - Tinkers with: 
 
@@ -59,7 +59,7 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 
 ### Anubha
 - Social: [Twitter](https://twitter.com/teatattler), [LinkedIn](), [Blog](), [Website]() 
-- [Github]() 
+- Github: :soon:
 - Currently at: 
 - Tinkers with: 
 
@@ -71,13 +71,13 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 
 ### Anupriya kashyap
 - Social: [Twitter](https://twitter.com/anupriyakashyap), [LinkedIn](https://www.linkedin.com/in/anupriya-kashyap/)
-- [Github]() 
+- Github: :soon:
 - Currently at: Sheroes
 - Tinkers with: JavaScript
 
 ### Anwesha Das
 - Social: [Twitter](https://twitter.com/anweshasrkr), [LinkedIn](), [Blog](), [Website]() 
-- [Github]() 
+- Github: :soon:
 - Currently at: 
 - Tinkers with: 
 
@@ -89,7 +89,7 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 
 ### Apoorva Tiwari
 - Social: [Twitter](https://twitter.com/apoorva_tiw), [LinkedIn](), [Blog](), [Website]() 
-- [Github]() 
+- Github: :soon:
 - Currently at: 
 - Tinkers with: 
 
@@ -101,19 +101,19 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 
 ### Arwa Lokhandwala
 - Social: [Twitter](https://twitter.com/arwa18793), [LinkedIn](), [Blog](), [Website]() 
-- [Github]() 
+- Github: :soon:
 - Currently at: 
 - Tinkers with: 
 
 ### Arya Murali
 - Social: [Twitter](https://twitter.com/aryacmurali), [LinkedIn](https://www.linkedin.com/in/aryamurali/), [Website](aryamurali.com) 
-- [Github]() 
+- Github: :soon:
 - Currently at: Rethink
 - Tinkers with: 
 
 ### Ashwini Asokan
 - Social: [Twitter](https://twitter.com/LadyAshBorg), [LinkedIn](https://www.linkedin.com/in/ashwiniasokan/), [Blog](), [Website]() 
-- [Github]() 
+- Github: :soon:
 - Currently at: Vue.ai, Mad Street Den
 - Tinkers with: 
 
@@ -131,7 +131,7 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 
 ### Chinmayi S K
 - Social: [Twitter](https://twitter.com/skchinmayi), [LinkedIn](https://www.linkedin.com/in/chinmayi-sk-8591777/), [Blog](), [Website]() 
-- [Github]() 
+- Github: :soon:
 - Currently at: Randomhacks
 - Tinkers with: 
 
@@ -143,49 +143,49 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 
 ### Deepa Iyer
 - Social: [Twitter](https://twitter.com/iyerdeepa), [LinkedIn](https://www.linkedin.com/in/deepa-iyer-62bb447/), [Blog](), [Website]() 
-- [Github]() 
+- Github: :soon:
 - Currently at: Omidyar Network
 - Tinkers with: 
 
 ### Deepa Naik
 - Social: [Twitter](https://twitter.com/@dynaik), [LinkedIn](), [Blog](), [Website]() 
-- [Github]() 
+- Github: :soon:
 - Currently at: 
 - Tinkers with: 
 
 ### Deesha Vora
 - Social: [Twitter](https://twitter.com/deesharv), [LinkedIn](), [Blog](), [Website]() 
-- [Github]() 
+- Github: :soon:
 - Currently at: 
 - Tinkers with: 
 
 ### Devangana Khokhar
 - Social: [Twitter](https://twitter.com/DevanganaK), [LinkedIn](), [Blog](), [Website]() 
-- [Github]() 
+- Github: :soon:
 - Currently at: 
 - Tinkers with: 
 
 ### Dikshita Desai
 - Social: [Twitter](https://twitter.com/desaidikshita), [LinkedIn](https://www.linkedin.com/in/desaidikshita/), [Blog](), [Website]() 
-- [Github]() 
+- Github: :soon:
 - Currently at: 
 - Tinkers with: 
 
 ### Dipti Gandhi
 - Social: [Twitter](https://twitter.com/MellowDipti), [LinkedIn](), [Blog](), [Website]() 
-- [Github]() 
+- Github: :soon:
 - Currently at: 
 - Tinkers with: 
 
 ### Divya K Konoor
 - Social: [Twitter](https://twitter.com/dikonoor), [LinkedIn](), [Blog](), [Website]() 
-- [Github]() 
+- Github: :soon:
 - Currently at: 
 - Tinkers with: 
 
 ### Divya Shivaram
 - Social: [Twitter](https://twitter.com/Yayydiv), [LinkedIn](), [Blog](), [Website]() 
-- [Github]() 
+- Github: :soon:
 - Currently at: 
 - Tinkers with: 
 
@@ -197,7 +197,7 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 
 ### Garima Gupta
 - Social: [Twitter](https://twitter.com/GarimaGupta1508), [LinkedIn](https://www.linkedin.com/in/garima-gupta-1508/), [Blog](), [Website]() 
-- [Github]() 
+- Github: :soon:
 - Currently at: Sheroes
 - Tinkers with: 
 
@@ -209,7 +209,7 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 
 ### Gauri Dhawan
 - Social: [Twitter](https://twitter.com/dhawan_gauri), [LinkedIn](https://www.linkedin.com/in/gauri-dhawan-75850a116/), [Blog](), [Website]() 
-- [Github]() 
+- Github: :soon:
 - Currently at: Sheroes
 - Tinkers with: 
 

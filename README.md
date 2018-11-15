@@ -11,14 +11,8 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 
 ### Aamna Khan
 - Social: [Twitter](https://twitter.com/_aamnakhan), [LinkedIn](https://www.linkedin.com/in/aamna92/), [Blog](medium.com/@aamnakhan)
-- [Github]() 
+- Github :soon: 
 - Currently at: Simpl
-- Tinkers with: 
-
-### Adisha Porwal
-- Social: [Twitter](https://twitter.com/TheAdisha), [LinkedIn](), [Blog](), [Website]() 
-- [Github]() 
-- Currently at: 
 - Tinkers with: 
 
 ### Aditi Soni

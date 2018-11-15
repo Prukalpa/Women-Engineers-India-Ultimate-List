@@ -17,7 +17,7 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 
 ### Adisha Porwal
 - Social: [Twitter](https://twitter.com/TheAdisha), [LinkedIn](https://www.linkedin.com/in/adishaporwal/), [Website](adishap.com)
-- Github: https://github.com/adishap
+- [Github](https://github.com/adishap)
 - Currently at: Typeset
 - Tinkers with: Javascript, AngularJS, Node.js, Golang, Python, PHP
 

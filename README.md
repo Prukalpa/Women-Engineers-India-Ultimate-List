@@ -10,7 +10,7 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 (sorted alphabetically) 
 
 ### Aamna Khan
-- Social: [Twitter](https://twitter.com/_aamnakhan), [LinkedIn](https://www.linkedin.com/in/aamna92/), [Blog](medium.com/@aamnakhan)
+- Social: [Twitter](https://twitter.com/_aamnakhan), [LinkedIn](https://www.linkedin.com/in/aamna92/), [Blog](https://medium.com/@aamnakhan)
 - Github: :soon: 
 - Currently at: Simpl
 - Tinkers with: Product
@@ -89,7 +89,7 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Tinkers with: Machine learning
 
 ### Arya Murali
-- Social: [Twitter](https://twitter.com/aryacmurali), [LinkedIn](https://www.linkedin.com/in/aryamurali/), [Website](aryamurali.com) 
+- Social: [Twitter](https://twitter.com/aryacmurali), [LinkedIn](https://www.linkedin.com/in/aryamurali/), [Website](https://aryamurali.com) 
 - Github: :soon:
 - Currently at: Rethink
 - Tinkers with: :page_with_curl:
@@ -107,7 +107,7 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Tinkers with: Chatbots, Django, MongoDB
 
 ### Chhavi P Gupta
-- Social: [Twitter](https://twitter.com/chhavip04), [LinkedIn](https://www.linkedin.com/in/chhavip/), [Website](chhavip.wordpress.com) 
+- Social: [Twitter](https://twitter.com/chhavip04), [LinkedIn](https://www.linkedin.com/in/chhavip/), [Website](https://chhavip.wordpress.com) 
 - [Github](https://github.com/chhavip) 
 - Currently at: Google
 - Tinkers with: Java
@@ -143,7 +143,7 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Tinkers with: Product
 
 ### Garima Jain
-- Social: [Twitter](https://twitter.com/ragdroid), [LinkedIn](https://www.linkedin.com/in/ragdroid/), [Blog](https://medium.com/@ragdroid), [Website](ragdroid.com) 
+- Social: [Twitter](https://twitter.com/ragdroid), [LinkedIn](https://www.linkedin.com/in/ragdroid/), [Blog](https://medium.com/@ragdroid), [Website](https://ragdroid.com) 
 - [Github](https://github.com/ragdroid/) 
 - Currently at: Over
 - Tinkers with: Android
@@ -161,7 +161,7 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Tinkers with: :page_with_curl:
 
 ### Jhilmil Kochar
-- Social: [Twitter](https://twitter.com/jakochar), [LinkedIn](https://www.linkedin.com/in/jhilmilkochar/), [Blog](myhumerousbone.wordpress.com)
+- Social: [Twitter](https://twitter.com/jakochar), [LinkedIn](https://www.linkedin.com/in/jhilmilkochar/), [Blog](https://myhumerousbone.wordpress.com)
 - Github: :soon:
 - Currently at: Crowdstrike
 - Tinkers with: Talent acquisition
@@ -191,7 +191,7 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Tinkers with: Design
 
 ### khushbu parakh
-- Social: [Twitter](https://twitter.com/cokencode), [LinkedIn](https://www.linkedin.com/in/khushbuparakh/), [Website](khushbu.strikingly.com) 
+- Social: [Twitter](https://twitter.com/cokencode), [LinkedIn](https://www.linkedin.com/in/khushbuparakh/), [Website](https://khushbu.strikingly.com) 
 - [Github](https://github.com/khushbuparakh) 
 - Currently at: Avi Networks
 - Tinkers with: Python, Robot framework, CSS/LESS, Apache/Nginx, Mongo DB
@@ -293,7 +293,7 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Tinkers with: HTML5, CSS3, Sass, Javascript, Reactjs, Nodejs
 
 ### Nikhita Raghunath
-- Social: [Twitter](https://twitter.com/TheNikhita), [LinkedIn](https://www.linkedin.com/in/nikinath/), [Website](nikhita.github.io) 
+- Social: [Twitter](https://twitter.com/TheNikhita), [LinkedIn](https://www.linkedin.com/in/nikinath/), [Website](https://nikhita.github.io) 
 - [Github](https://github.com/nikhita) 
 - Currently at: Loodse
 - Tinkers with: Kubernetes
@@ -305,7 +305,7 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Tinkers with: :page_with_curl:
 
 ### Pavithra Kodmad
-- Social: [Twitter](https://twitter.com/PKodmad), [LinkedIn](https://www.linkedin.com/in/pavithra-kodmad/), [Blog](http://www.pavithrakodmad.com/tech-stuff), [Website](pavithrakodmad.com) 
+- Social: [Twitter](https://twitter.com/PKodmad), [LinkedIn](https://www.linkedin.com/in/pavithra-kodmad/), [Blog](http://www.pavithrakodmad.com/tech-stuff), [Website](https://pavithrakodmad.com) 
 - [Github](https://github.com/pksjce) 
 - Currently at: Atlassian,
 - Tinkers with: Javascript
@@ -329,7 +329,7 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Tinkers with: Python, Go, Javascript
 
 ### Priya Gangikunta
-- Social: [Twitter](https://twitter.com/Pr1yaKr1shna), [Blog](knowpythonwithpriya.wordpress.com)
+- Social: [Twitter](https://twitter.com/Pr1yaKr1shna), [Blog](https://knowpythonwithpriya.wordpress.com)
 - Github: :soon:
 - Currently at: :soon:
 - Tinkers with: Python
@@ -341,7 +341,7 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Tinkers with: Decentralized web
 
 ### Priyal Aggarwal
-- Social: [Twitter](https://twitter.com/priyal_aggarwal), [LinkedIn](https://www.linkedin.com/in/priyal-aggarwal/), [Blog](), [Website](priyalaggarwal.wordpress.com) 
+- Social: [Twitter](https://twitter.com/priyal_aggarwal), [LinkedIn](https://www.linkedin.com/in/priyal-aggarwal/), [Blog](), [Website](https://priyalaggarwal.wordpress.com) 
 - [Github](https://github.com/priyalaggarwal/) 
 - Currently at: Microsoft
 - Tinkers with: Java, HTML, Python
@@ -353,7 +353,7 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Tinkers with: Javascript, Data visualization
 
 ### Richa Khanna
-- Social: [Twitter](https://twitter.com/RichaKhanna10), [LinkedIn](https://www.linkedin.com/in/richakhanna1/), [Blog](medium.com/@richa.khanna), [Website]() 
+- Social: [Twitter](https://twitter.com/RichaKhanna10), [LinkedIn](https://www.linkedin.com/in/richakhanna1/), [Blog](https://medium.com/@richa.khanna), [Website]() 
 - [Github](https://github.com/richakhanna) 
 - Currently at: Shopify
 - Tinkers with: 
@@ -383,7 +383,7 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Tinkers with: Javascript
 
 ### Saloni Malhotra
-- Social: [Twitter](https://twitter.com/salonimalhotra), [LinkedIn](https://www.linkedin.com/in/salonimalhotra/), [Blog](https://medium.com/@salonimalhotra), [Website](about.me/salonimalhotra) 
+- Social: [Twitter](https://twitter.com/salonimalhotra), [LinkedIn](https://www.linkedin.com/in/salonimalhotra/), [Blog](https://medium.com/@salonimalhotra), [Website](https://about.me/salonimalhotra) 
 - Github: :soon:
 - Currently at: Invest India
 - Tinkers with: :soon:
@@ -395,7 +395,7 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Tinkers with: Android
 
 ### Sanya Khurana
-- Social: [Twitter](https://twitter.com/KhuranaSanya), [LinkedIn](https://www.linkedin.com/in/sanyakhurana/), [Website](sanyakhurana.com) 
+- Social: [Twitter](https://twitter.com/KhuranaSanya), [LinkedIn](https://www.linkedin.com/in/sanyakhurana/), [Website](https://sanyakhurana.com) 
 - [Github](https://github.com/sanyagithub) 
 - Currently at: Adobe
 - Tinkers with: Lean In India; GirlGorithm
@@ -407,13 +407,13 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Tinkers with: Robot-human interface
 
 ### Shivani Bhardwaj
-- Social: [Twitter](https://twitter.com/tuxish), [LinkedIn](https://www.linkedin.com/in/shivan1/), [Blog](unixia.wordpress.com), [Website](https://about.me/shivani.bhardwaj) 
+- Social: [Twitter](https://twitter.com/tuxish), [LinkedIn](https://www.linkedin.com/in/shivan1/), [Blog](https://unixia.wordpress.com), [Website](https://about.me/shivani.bhardwaj) 
 - [Github](https://github.com/shivan1b) 
 - Currently at: The Open Information Security Foundation
 - Tinkers with: Python, PHP
 
 ### Shubheksha Jalan
-- Social: [Twitter](https://twitter.com/ScribblingOn), [LinkedIn](https://www.linkedin.com/in/shubheksha/), [Blog](https://medium.com/@shubheksha), [Website](shubheksha.com) 
+- Social: [Twitter](https://twitter.com/ScribblingOn), [LinkedIn](https://www.linkedin.com/in/shubheksha/), [Blog](https://medium.com/@shubheksha), [Website](https://shubheksha.com) 
 - [Github](https://github.com/shubheksha) 
 - Currently at: Microsoft
 - Tinkers with: Go
@@ -425,7 +425,7 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Tinkers with: Go
 
 ### Sonika Malloth
-- Social: [Twitter](https://twitter.com/sonikblasts), [LinkedIn](linkedin/SonikaMalloth), [Blog](http://www.sonikblasts.com/tech-blog.html), [Website](sonikblasts.com) 
+- Social: [Twitter](https://twitter.com/sonikblasts), [LinkedIn](linkedin/SonikaMalloth), [Blog](http://www.sonikblasts.com/tech-blog.html), [Website](http://sonikblasts.com) 
 - [Github](github/msonika30) 
 - Currently at: Sears Holdings Corporation
 - Tinkers with: Javascript
@@ -437,7 +437,7 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Tinkers with: Python, Javascript
 
 ### Srishti Kush
-- Social: [Twitter](https://twitter.com/KushSrishti), [LinkedIn](https://www.linkedin.com/in/srishti-kush/), [Blog](https://srishtikush.com/blog/), [Website](srishtikush.com) 
+- Social: [Twitter](https://twitter.com/KushSrishti), [LinkedIn](https://www.linkedin.com/in/srishti-kush/), [Blog](https://srishtikush.com/blog/), [Website](https://srishtikush.com) 
 - Github: :soon:
 - Currently at: Alliance Bernstine
 - Tinkers with: Javascript, HTML, CSS
@@ -473,7 +473,7 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Tinkers with: Java
 
 ### Tanushree Jindal
-- Social: [Twitter](https://twitter.com/tanushree), [LinkedIn](https://www.linkedin.com/in/tanushreejindal/), [Website](design.listeningtree.co) 
+- Social: [Twitter](https://twitter.com/tanushree), [LinkedIn](https://www.linkedin.com/in/tanushreejindal/), [Website](https://design.listeningtree.co) 
 - Github: :soon:
 - Currently at: Freelancer
 - Tinkers with: HTML, CSS, JS, Wordpress
@@ -503,7 +503,7 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Tinkers with: Javascript
 
 ### Vertika
-- Social: [Twitter](https://twitter.com/vertika00), [LinkedIn](https://www.linkedin.com/in/vertika-shukla/), [Blog](medium.com/codesharp), [Website]() 
+- Social: [Twitter](https://twitter.com/vertika00), [LinkedIn](https://www.linkedin.com/in/vertika-shukla/), [Blog](https://medium.com/codesharp), [Website]() 
 - Github :soon:
 - Currently at: Sheroes
 - Tinkers with: C++

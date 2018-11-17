@@ -518,13 +518,13 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 
 ### WomenTechmakers 
 - [Website](https://www.womentechmakers.com/)
-- [Twitter] ( ) 
+- [Twitter]( ) 
 
 
 ### GirlScript Summer of God
-- [Website] ( ) 
-- [Twitter] (https://twitter.com/girlscriptsoc) 
+- [Website]( ) 
+- [Twitter](https://twitter.com/girlscriptsoc) 
 
-# Add More Groups Here
-- [Link Type] (Link) 
+### Add More Groups Here
+- [Link Type](Link) 
 

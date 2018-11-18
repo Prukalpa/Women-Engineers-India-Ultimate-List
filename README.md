@@ -208,11 +208,11 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Currently at: Good Karma
 - Tinkers with: Ruby, Javascript
 
-### Madhura
-- Social: [Twitter](https://twitter.com/Madhuragj), [LinkedIn](https://www.linkedin.com/in/joshimadhura/), [Blog](), [Website]() 
-- [Github](https://github.com/madhura7joshi) 
-- Currently at: Veritas
-- Tinkers with: software Engineer
+### Madhura G Joshi
+- Social: [Twitter](https://twitter.com/Madhuragj), [LinkedIn](https://www.linkedin.com/in/madhura-g-joshi-86842a14b/) 
+- [Github](https://github.com/Madhura12gj) 
+- Currently a: Student aspiring to be a data scientist
+- Tinkers with: Machine Learning
 
 ### MANISHA BISWAS
 - Social: [Twitter](https://twitter.com/manisha_biswas7), [LinkedIn](https://www.linkedin.com/in/manisha-biswas-2a3228114/)

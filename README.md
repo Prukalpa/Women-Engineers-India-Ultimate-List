@@ -364,6 +364,12 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Currently at: Springboard
 - Tinkers with: Swift, CSS, Python
 
+### Ritu Gatiyala
+- Social: [Twitter](https://twitter.com/Ritu_Gatiyala), [LinkedIn](https://www.linkedin.com/in/gatiyala-ritu/), [Blog](), [Website]() 
+- [Github](https://github.com/ritugatiyala) 
+- Currently at: SocialCops
+- Tinkers with: Vue, JavaScript, CSS, HTML
+
 ### Saichithra
 - Social: [Twitter](https://twitter.com/saichithra), [LinkedIn](https://www.linkedin.com/in/saichithra/) 
 - Github: :soon:

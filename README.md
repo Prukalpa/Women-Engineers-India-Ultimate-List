@@ -530,10 +530,17 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 
 ### WomenTechmakers 
 - [Website](https://www.womentechmakers.com/)
-- [Twitter]( ) 
+- [Twitter](https://twitter.com/womentechmakers) 
 
+### Women Who Code
+- [Website] (https://www.womenwhocode.com/)
+- [Twitter] (https://twitter.com/womenwhocode)
 
-### GirlScript Summer of God
+### Women Who Go Delhi
+- [Website] 
+- [Twitter] (https://twitter.com/womenwhogo_del)
+
+### GirlScript Summer of Code
 - [Website]( ) 
 - [Twitter](https://twitter.com/girlscriptsoc) 
 

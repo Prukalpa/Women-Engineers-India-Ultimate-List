@@ -433,8 +433,8 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 ### Shivani Bhardwaj
 - Social: [Twitter](https://twitter.com/tuxish), [LinkedIn](https://www.linkedin.com/in/shivan1/), [Blog](https://unixia.wordpress.com), [Website](https://about.me/shivani.bhardwaj) 
 - [Github](https://github.com/shivan1b) 
-- Currently at: The Open Information Security Foundation
-- Tinkers with: Python, PHP
+- Currently at: Freelancer
+- Tinkers with: Python and Linux
 
 ### Shubheksha Jalan
 - Social: [Twitter](https://twitter.com/ScribblingOn), [LinkedIn](https://www.linkedin.com/in/shubheksha/), [Blog](https://medium.com/@shubheksha), [Website](https://shubheksha.com) 

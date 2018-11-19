@@ -533,20 +533,20 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - [Twitter](https://twitter.com/womentechmakers) 
 
 ### Women Who Code
-- [Website] (https://www.womenwhocode.com/)
-- [Twitter] (https://twitter.com/womenwhocode)
+- [Website](https://www.womenwhocode.com/)
+- [Twitter](https://twitter.com/womenwhocode)
 
 ### Women Who Go Delhi
 - [Website] 
-- [Twitter] (https://twitter.com/womenwhogo_del)
+- [Twitter](https://twitter.com/womenwhogo_del)
 
 ### LinuxChix India
-- [Website] (http://india.linuxchix.org/)
-- [Twitter] (https://twitter.com/linuxchixin)
+- [Website](http://india.linuxchix.org/)
+- [Twitter](https://twitter.com/linuxchixin)
 
 ### PyLadies Delhi
-- [Website] (https://pyladiesdelhi.github.io/)
-- [Twitter] (https://twitter.com/PyLadiesDelhi)
+- [Website](https://pyladiesdelhi.github.io/)
+- [Twitter](https://twitter.com/PyLadiesDelhi)
 
 ### GirlScript Summer of Code
 - [Website]( ) 

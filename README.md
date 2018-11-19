@@ -400,6 +400,12 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Currently at: :soon:
 - Tinkers with: Javascript
 
+### Sakshi Srivastava
+- Social: [LinkedIn](https://www.linkedin.com/in/sakshisrivastava413/) 
+- [Github](https://github.com/sakshisrivastava413) 
+- Currently at: IP University, Delhi
+- Tinkers with: Full Stack Javascript development (web and mobile)
+
 ### Saloni Malhotra
 - Social: [Twitter](https://twitter.com/salonimalhotra), [LinkedIn](https://www.linkedin.com/in/salonimalhotra/), [Blog](https://medium.com/@salonimalhotra), [Website](https://about.me/salonimalhotra) 
 - Github: :soon:

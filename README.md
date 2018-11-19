@@ -412,6 +412,12 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Currently at: :soon:
 - Tinkers with: Robot-human interface
 
+### Shilpi Gupta
+- Social: [Twitter](https://twitter.com/shilpi_c75), [LinkedIn](https://www.linkedin.com/in/shilpi75/)
+- [Github](https://github.com/shilpi75) 
+- Currently at: Adobe
+- Tinkers with: Java, C++, C
+
 ### Shivani Bhardwaj
 - Social: [Twitter](https://twitter.com/tuxish), [LinkedIn](https://www.linkedin.com/in/shivan1/), [Blog](https://unixia.wordpress.com), [Website](https://about.me/shivani.bhardwaj) 
 - [Github](https://github.com/shivan1b) 

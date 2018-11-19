@@ -370,6 +370,12 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Currently at: SocialCops
 - Tinkers with: Vue, JavaScript, CSS, HTML
 
+###Sadhana Srinivasan
+- Social:[Twitter](https://twitter.com/rotunatweets), [LinkedIn](https://www.linkedin.com/in/sadhana-srinivasan/)
+- [Github](https://github.com/rotuna)
+- Currently at: Saama Technologies
+- Tinkers with: Machine Learning and Math
+
 ### Saichithra
 - Social: [Twitter](https://twitter.com/saichithra), [LinkedIn](https://www.linkedin.com/in/saichithra/) 
 - Github: :soon:

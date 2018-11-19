@@ -540,6 +540,10 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - [Website] 
 - [Twitter] (https://twitter.com/womenwhogo_del)
 
+### LinuxChix India
+- [Website]
+- [Twitter] (https://twitter.com/linuxchixin)
+
 ### GirlScript Summer of Code
 - [Website]( ) 
 - [Twitter](https://twitter.com/girlscriptsoc) 

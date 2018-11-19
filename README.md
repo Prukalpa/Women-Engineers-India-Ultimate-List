@@ -184,6 +184,12 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Currently at: CoffeeBeans Consulting LLP
 - Tinkers with: Go
 
+### Kanika Modi
+- Social: [Twitter](https://twitter.com/kanika_96), [LinkedIn](https://www.linkedin.com/in/kanika-modi/)
+- [Github](https://github.com/kanmodi)
+- Currently at: Amazon
+- Tinkers with: Java, Javascript, Python, Machine Learning 
+
 ### Karthi
 - Social: [Twitter](https://twitter.com/karthi2209), [LinkedIn](https://www.linkedin.com/in/skarthi/), [Blog](https://karthis.blog/)
 - Github: :soon:

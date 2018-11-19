@@ -155,10 +155,16 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Tinkers with: :page_with_curl:
 
 ### Himani Joshi
-- Social: [Twitter](https://twitter.com/Himani_Joshi_), [LinkedIn](https://www.linkedin.com/in/himani-joshi-21b79151/)
+- Social: [Twitter](https://twitter.com/IpshitaIC), [LinkedIn](https://www.linkedin.com/in/himani-joshi-21b79151/)
 - Github: :soon:
 - Currently at: Fyle
 - Tinkers with: :page_with_curl:
+
+### Ipshita Chatterjee
+- Social: [Twitter](https://twitter.com/Himani_Joshi_), [LinkedIn](https://www.linkedin.com/in/ipshitachatterjee/)
+- [Github](https://github.com/IpshitaC)
+- Currently at: Adobe
+- Tinkers with: Python, Ruby, Distributed Systems
 
 ### Jhilmil Kochar
 - Social: [Twitter](https://twitter.com/jakochar), [LinkedIn](https://www.linkedin.com/in/jhilmilkochar/), [Blog](https://myhumerousbone.wordpress.com)

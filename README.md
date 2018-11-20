@@ -486,8 +486,8 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 
 ### Swaathi Kakarla
 - Social: [Twitter](https://twitter.com/imswaathik), [LinkedIn](https://www.linkedin.com/in/swaathi/), [Website](https://swaathi.com/) 
-- [Github] (http://github.com/swaathi)
-- Currently at: Skcript + UnderstandBetter
+- [Github](http://github.com/swaathi)
+- Currently at: [Skcript](https://skcript.com) and [UnderstandBetter](https://understandbetter.co)
 - Tinkers with: Ruby, Ruby on Rails, ReactJs, Python, Elasticsearch, Redis, Entrepreunership
 
 ### Talina Shrotriya

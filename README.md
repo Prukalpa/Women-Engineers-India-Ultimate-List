@@ -359,10 +359,10 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Tinkers with: Javascript, Data visualization
 
 ### Richa Khanna
-- Social: [Twitter](https://twitter.com/RichaKhanna10), [LinkedIn](https://www.linkedin.com/in/richakhanna1/), [Blog](https://medium.com/@richa.khanna), [Website]() 
+- Social: [Twitter](https://twitter.com/RichaKhanna10), [LinkedIn](https://www.linkedin.com/in/richakhanna1/), [Blog](https://medium.com/@richa.khanna) 
 - [Github](https://github.com/richakhanna) 
 - Currently at: Shopify
-- Tinkers with: 
+- Tinkers with: Android
 
 ### Rimil Dey
 - Social: [Twitter](https://twitter.com/rimildeyjsr), [LinkedIn](https://www.linkedin.com/in/rimildeyjsr/), [Blog](), [Website]() 

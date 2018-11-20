@@ -226,6 +226,11 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Currently a: Student aspiring to be a data scientist
 - Tinkers with: Machine Learning
 
+### Mala Gupta
+- Social: [LinkedIn] (https://www.linkedin.com/in/malagupta/)
+- Currently at: Founder of eJavaguru.com
+- Tinkers with: Java
+
 ### MANISHA BISWAS
 - Social: [Twitter](https://twitter.com/manisha_biswas7), [LinkedIn](https://www.linkedin.com/in/manisha-biswas-2a3228114/)
 - [Github](https://github.com/manishabiswas) 

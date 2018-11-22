@@ -549,6 +549,12 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Currently at: Sheroes
 - Tinkers with: C++
 
+### Shilpa Amberker
+- Social: [Twitter](https://twitter.com/shilpaAB), [LinkedIn](https://www.linkedin.com/in/shilpaamberker/)
+- [Github](https://github.com/shilpavijay) 
+- Currently at: Accenture
+- Tinkers with: Python, Go, Javascript, SQL, Machine Learning
+
 ### Add More Names Here
 - Social: [Twitter](), [LinkedIn](), [Blog](), [Website]() 
 - [Github]() 
@@ -580,6 +586,10 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 ### GirlScript Summer of Code
 - [Website]( ) 
 - [Twitter](https://twitter.com/girlscriptsoc) 
+
+### PyLadies Remote
+- [Website](https://remote.pyladies.com/) 
+- [Twitter](https://twitter.com/PyLadiesRemote) 
 
 ### Add More Groups Here
 - [Link Type](Link) 

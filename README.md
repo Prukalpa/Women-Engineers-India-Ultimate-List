@@ -581,6 +581,10 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - [Website]( ) 
 - [Twitter](https://twitter.com/girlscriptsoc) 
 
+### PyLadies Remote
+- [Website](https://remote.pyladies.com/) 
+- [Twitter](https://twitter.com/PyLadiesRemote)
+
 ### Add More Groups Here
 - [Link Type](Link) 
 

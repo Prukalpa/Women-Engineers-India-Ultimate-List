@@ -124,6 +124,12 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Currently at: Salesforce
 - Tinkers with: Java, HTML, JavaScript
 
+### Divya Sivaram
+- Social: [Twitter](https://twitter.com/YayyDiv), [LinkedIn](www.linkedin.com/in/divya-sivaram) 
+- [Github](github.com/divyashivaram) 
+- Currently at: Mammoth Analytics
+- Tinkers with: Full Stack web development, Machine Learning, Computer Vision
+
 ### Deepa Iyer
 - Social: [Twitter](https://twitter.com/iyerdeepa), [LinkedIn](https://www.linkedin.com/in/deepa-iyer-62bb447/) 
 - Github: :soon:

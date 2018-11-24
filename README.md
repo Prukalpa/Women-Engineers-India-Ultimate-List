@@ -39,6 +39,12 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Currently at: Monzo
 - Tinkers with: Python, Go
 
+### Akhila Hegde
+- Social: [twitter](https://twitter.com/akhilaudable), [LinkedIn](https://www.linkedin.com/in/akhihegde06), [Website](https://akhilaudable.github.io/)
+- [Github](https://github.com/akhilaudable)
+- Currently at: Taghash
+- Tinkers with: Web and Back-end technologies - HTML5, JavaScript, ReactJS, NodeJS, MongoDB, Neo4J
+
 ### Akshita Aggarwal
 - Social: [Twitter](https://twitter.com/AkshitaAggarw18), [LinkedIn](https://www.linkedin.com/in/akshita-aggarwal-98845413a/)
 - [Github](https://github.com/Akshitaag) 
@@ -530,6 +536,12 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - [Github](https://github.com/tapaswenipathak) 
 - Currently at: Reliance Jio Financial Innovation Group
 - Tinkers with: PHP, Python, Opensource
+
+### Vaishali Thakkar
+- Social: [Twitter](https://twitter.com/kernel_girl), [LinkedIn](https://in.linkedin.com/in/vaishali-thakkar-411b3390), [Website](https://vaishalithakkar.in)
+- [Github](https://github.com/nerdyvaishali)
+- Currently at: Freelancer
+- Tinkers with: Linux Kernel, Free and Open Source Software
 
 ### Vandana Verma
 - Social: [Twitter](https://twitter.com/InfosecVandana), [LinkedIn](https://www.linkedin.com/in/vandana-verma/) 

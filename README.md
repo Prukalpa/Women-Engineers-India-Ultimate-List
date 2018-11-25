@@ -206,7 +206,7 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Social: [Twitter](https://twitter.com/jyotsna17gupta), [LinkedIn](https://www.linkedin.com/in/jyotsna17gupta/), [Blog](https://technogadgetinsane.wordpress.com/), [Website](https://jyotsna17gupta.github.io/) 
 - [Github](https://github.com/jyotsna17gupta) 
 - Currently at: CoffeeBeans Consulting LLP
-- Tinkers with: Go
+- Tinkers with: Go, Redis, MongoDB
 
 ### Kanika Modi
 - Social: [Twitter](https://twitter.com/kanika_96), [LinkedIn](https://www.linkedin.com/in/kanika-modi/)

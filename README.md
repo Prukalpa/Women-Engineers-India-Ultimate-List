@@ -89,7 +89,7 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Tinkers with: Kubernetes
 
 ### Archana Iyer
-- Social: [Twitter](Archana Iyer), [LinkedIn](https://www.linkedin.com/in/archana-iyer/) 
+- Social: [Twitter](https://twitter.com/ArchanaIyer1996), [LinkedIn](https://www.linkedin.com/in/archana-iyer/) 
 - [Github](https://github.com/ArchanaIyer1996) 
 - Currently at: Saama
 - Tinkers with: Machine learning
@@ -131,8 +131,8 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Tinkers with: Java, HTML, JavaScript
 
 ### Divya Sivaram
-- Social: [Twitter](https://twitter.com/YayyDiv), [LinkedIn](www.linkedin.com/in/divya-sivaram) 
-- [Github](github.com/divyashivaram) 
+- Social: [Twitter](https://twitter.com/YayyDiv), [LinkedIn](https://www.linkedin.com/in/divya-sivaram) 
+- [Github](https://github.com/divyashivaram) 
 - Currently at: Mammoth Analytics
 - Tinkers with: Full Stack web development, Machine Learning, Computer Vision
 
@@ -143,7 +143,7 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Tinkers with: :page_with_curl:
 
 ### Fatima Rafiqui
-- Social: [Twitter](https://twitter.com/fatima_rafiqui), [LinkedIn](https://www.linkedin.com/in/fatimarafiqui/), [Website](fatimarafiqui.com) 
+- Social: [Twitter](https://twitter.com/fatima_rafiqui), [LinkedIn](https://www.linkedin.com/in/fatimarafiqui/), [Website](https://fatimarafiqui.com) 
 - [Github](https://github.com/fatimarafiqui) 
 - Currently at: Indira Gandhi Delhi Technical University for Women
 - Tinkers with: Python, JavaScript, Java, HTML 
@@ -185,7 +185,7 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Tinkers with: Talent acquisition
 
 ### Jigyasa Grover
-- Social: [Twitter](https://twitter.com/jigyasa_grover), [LinkedIn](https://www.linkedin.com/in/jigyasa-grover/)) 
+- Social: [Twitter](https://twitter.com/jigyasa_grover), [LinkedIn](https://www.linkedin.com/in/jigyasa-grover/) 
 - [Github](https://github.com/jigyasa-grover) 
 - Currently at: :soon:
 - Tinkers with: Python, Java
@@ -497,7 +497,7 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 
 ### Sonika Malloth
 - Social: [Twitter](https://twitter.com/sonikblasts), [LinkedIn](linkedin/SonikaMalloth), [Blog](http://www.sonikblasts.com/tech-blog.html), [Website](http://sonikblasts.com) 
-- [Github](github/msonika30) 
+- [Github](https://github/msonika30) 
 - Currently at: Sears Holdings Corporation
 - Tinkers with: Javascript
 

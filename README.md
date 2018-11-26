@@ -196,11 +196,17 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Currently at: HivesMind
 - Tinkers with: StartUps, Data
 
+### Jyoti Gupta
+- Social: [Twitter](https://twitter.com/jyoti273), [LinkedIn](https://www.linkedin.com/in/jyoti-gupta/) 
+- [Github] (https://github.com/jyoti273)
+- Currently at: Fractal Analytics
+- Tinkers with: Scala, Big Data
+
 ### Jyotsna Gupta
-- Social: [Twitter](https://twitter.com/jyotsna17gupta), [LinkedIn](https://www.linkedin.com/in/jyotsna17gupta/), [Blog](), [Website](http://jyotsna17gupta.github.io/) 
+- Social: [Twitter](https://twitter.com/jyotsna17gupta), [LinkedIn](https://www.linkedin.com/in/jyotsna17gupta/), [Blog](https://technogadgetinsane.wordpress.com/), [Website](https://jyotsna17gupta.github.io/) 
 - [Github](https://github.com/jyotsna17gupta) 
 - Currently at: CoffeeBeans Consulting LLP
-- Tinkers with: Go
+- Tinkers with: Go, Redis, MongoDB
 
 ### Kanika Modi
 - Social: [Twitter](https://twitter.com/kanika_96), [LinkedIn](https://www.linkedin.com/in/kanika-modi/)

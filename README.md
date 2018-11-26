@@ -477,6 +477,12 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Currently at: Freelancer
 - Tinkers with: Python and Linux
 
+### Shreya Ranpariya
+- Social: [LinkedIn](https://www.linkedin.com/in/shreya-ranpariya/), [Website](http://jsbot.io) 
+- [Github](https://github.com/10S10) 
+- Currently at: JSbot, Firecamp
+- Tinkers with: Product Development with Realtime, Rest & GraphQL
+
 ### Shubheksha Jalan
 - Social: [Twitter](https://twitter.com/ScribblingOn), [LinkedIn](https://www.linkedin.com/in/shubheksha/), [Blog](https://medium.com/@shubheksha), [Website](https://shubheksha.com) 
 - [Github](https://github.com/shubheksha) 

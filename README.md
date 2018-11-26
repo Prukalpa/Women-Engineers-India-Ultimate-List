@@ -453,6 +453,12 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Currently at: :soon:
 - Tinkers with: Robot-human interface
 
+### Sezal Agrawal
+- Social: [Twitter](https://twitter.com/AgrawalSezal), [LinkedIn](https://www.linkedin.com/in/sezal-agrawal-8bba8967/) 
+- [Github](https://github.com/SezalAgrawal) 
+- Currently at: :Datagrokr Analytics Pvt Ltd:
+- Tinkers with: Big Data(Hadoop, Hive), Blockchain, AWS services, React-Redux
+
 ### Shilpi Gupta
 - Social: [Twitter](https://twitter.com/shilpi_c75), [LinkedIn](https://www.linkedin.com/in/shilpi75/)
 - [Github](https://github.com/shilpi75) 

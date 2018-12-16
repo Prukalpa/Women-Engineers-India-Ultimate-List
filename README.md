@@ -381,6 +381,12 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Currently at: Microsoft
 - Tinkers with: Java, HTML, Python
 
+### Priyal Jain
+- Social: [Twitter](https://twitter.com/priyaljain73), [LinkedIn](https://www.linkedin.com/in/priyal-jain-b72769130), [Blog](), [Website]() 
+- [Github](https://github.com/priyaljain73/)
+- Currently at: Coviam
+- Tinkers with: Automation Enginnering, Appium, Selenium, Java, Testing and QA
+
 ### Rakhi sharma
 - Social: [Twitter](https://twitter.com/atbrakhi), [LinkedIn](https://www.linkedin.com/in/atbrakhi/), [Blog](), [Website](http://rakhisharma.in/) 
 - [Github](https://github.com/Rakhisharma) 

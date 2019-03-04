@@ -567,6 +567,12 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Currently at: Reliance Jio Financial Innovation Group
 - Tinkers with: PHP, Python, Opensource
 
+### Vaibhavi Singh
+- Social: [Twitter](https://twitter.com/__Vaibhavi), [LinkedIn](https://www.linkedin.com/in/vaibhavi-singh-45619a138/)
+- [Github](https://github.com/Vaibhavi24)
+- Currently at: Netaji Subhas Institute of Technology, Delhi(NSIT)
+- Tinkers with: Javascript, Python, C++
+
 ### Vaishali Thakkar
 - Social: [Twitter](https://twitter.com/kernel_girl), [LinkedIn](https://in.linkedin.com/in/vaishali-thakkar-411b3390), [Website](https://vaishalithakkar.in)
 - [Github](https://github.com/nerdyvaishali)

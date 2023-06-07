@@ -568,10 +568,10 @@ Thanks to everyone who has contributed so far! The goal is for this to be an eve
 - Tinkers with: PHP, Python, Opensource
 
 ### Vaibhavi Singh
-- Social: [Twitter](https://twitter.com/__Vaibhavi), [LinkedIn](https://www.linkedin.com/in/vaibhavi-singh-45619a138/)
+- Social: [Twitter](https://twitter.com/__Vaibhavi), [LinkedIn](https://www.linkedin.com/in/contactvaibhavisingh/)
 - [Github](https://github.com/Vaibhavi24)
-- Currently at: Netaji Subhas Institute of Technology, Delhi(NSIT)
-- Tinkers with: Javascript, Python, C++
+- Currently at: Adobe
+- Tinkers with: Javascript, Java, Open Source Software
 
 ### Vaishali Thakkar
 - Social: [Twitter](https://twitter.com/kernel_girl), [LinkedIn](https://in.linkedin.com/in/vaishali-thakkar-411b3390), [Website](https://vaishalithakkar.in)
